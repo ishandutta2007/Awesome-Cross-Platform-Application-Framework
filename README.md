@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Application-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Application-Framework?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Application-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Application-Framework?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Application-Framework/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cross-Platform-Application-Framework?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -51,9 +51,9 @@ The commercial tools and platforms below are sorted by company size/valuation (d
 
 ## 🔓 Open-Source GitHub Projects
 
-The following curated open-source cross-platform frameworks are sorted by GitHub star count (descending):
+The following curated open-source cross-platform frameworks are sorted by GitHub Stars_Count (descending):
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Flutter](https://github.com/flutter/flutter)** | **Google's UI toolkit for multi-platform apps.** High-performance rendering with Impeller, Dart language, and single-codebase deployment across iOS, Android, Desktop, Web, and Embedded. | [![Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers) |
 | **[React Native](https://github.com/facebook/react-native)** | **Meta's cross-platform framework.** Build native mobile applications using React, TypeScript/JavaScript, and native UI components. | [![Stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers) |
