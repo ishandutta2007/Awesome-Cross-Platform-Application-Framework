@@ -149,3 +149,5 @@ Star the repo if you find it useful!
 **Made for software developers, mobile engineers, desktop application teams, and technology architects.**
 
 Let's make cross-platform development more open, transparent, and accessible.
+# Awesome-Cross-Platform-Application-Framework
+
